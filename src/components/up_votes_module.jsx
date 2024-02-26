@@ -1,4 +1,4 @@
-export default function UpVotes({votes}){
+export default function UpVotes({votes=0}){
     return(
         <div className="m-4">
             <div className="flex justify-between w-36 border border-gray-500 rounded-full">

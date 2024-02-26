@@ -1,4 +1,4 @@
-export default function Floating(){
+export default function Login(){
     return(
         <div class="w-3/6 sm:w-2/6 md:w-2/6 lg:w-2/6 container fixed bottom-4 left-1/2 transform -translate-x-1/2 rounded-full border border-gray-500 bg-white">
             <div className="flex justify-between p-2">
@@ -19,6 +19,5 @@ export default function Floating(){
                 </button>
             </div>
         </div>
-
     )
 }
