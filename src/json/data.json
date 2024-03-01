@@ -1,0 +1,26 @@
+[
+    {
+        "id": "post ID",
+        "creator": {
+            "id": "creator ID",
+            "username": "creator username"
+        },
+        "post_title": "Post 2",
+        "post_summary": "Resumen publicación 1",
+        "post_content": "Contenido publicación 1",
+        "post_publish_date": "Hora de creación publicación 1",
+        "up_votes": "votos publicación 1"
+    },
+    {
+        "id": "post ID",
+        "creator": {
+            "id": "creator ID",
+            "username": "creator username"
+        },
+        "post_title": "Post 2",
+        "post_summary": "Resumen publicación 2",
+        "post_content": "Contenido publicación 2",
+        "post_publish_date": "Hora de creación publicación 2",
+        "up_votes": "votos publicación 2"
+    }
+]

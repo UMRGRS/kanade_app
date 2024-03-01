@@ -1,3 +1,4 @@
+import APIFecth from "./components/api_fetch";
 import Floating from "./components/floating_actions_comp/floating_actions_bar";
 import Header from "./components/header";
 import PostTemplate from "./components/post_template";
