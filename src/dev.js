@@ -66,7 +66,7 @@ export default function Dev(){
             Floating actions buttons when not login
             <Floating status={false}/> 
             */}
-            <Floating status={true}/>
+            <Floating status={false}/>
         </div>
     )
     
