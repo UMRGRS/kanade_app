@@ -68,6 +68,7 @@ export default function Dev(){
             <Floating status={false}/> 
             */}
             <Floating status={true}/>
+            <APIFecth />
         </div>
     )
     
